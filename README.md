@@ -43,7 +43,7 @@ To set up the E-commerce Chatbot locally, follow these steps:
 
 6. Run the Flask application:
 
-'''bash
+```bash
     python app.py
-
+    
 ```
